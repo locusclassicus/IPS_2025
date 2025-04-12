@@ -147,8 +147,8 @@ revealjs-plugins:
 <ul class="icon-list">
   <li><i class="fab fa-telegram"></i> @locusclassicus </li>
   <li><i class="fas fa-envelope"></i> alieva.mgl@gmail.com </li>
-  <li><i class="fab fa-github"></i> https://github.com/locusclassicus </li>
-  <li><i class="fas fa-graduation-cap"></i> https://hse-ru.academia.edu/OlgaAlieva</li>
+  <li><i class="fab fa-github"></i> github.com/locusclassicus </li>
+  <li><i class="fas fa-graduation-cap"></i> hse-ru.academia.edu/OlgaAlieva</li>
 </ul>
 
 <!-- Optional CSS for styling -->
