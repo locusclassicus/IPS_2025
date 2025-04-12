@@ -1,0 +1,176 @@
+---
+title: "Sense and Sensibility: the Theaetetus and the Philebus on False Pleasure"
+subtitle: "IPS 2025"
+author: Olga Alieva
+date: 05/05/2025
+format: 
+  clean-revealjs:
+    scrollable: true
+    pointer: 
+      color: tomato
+revealjs-plugins:
+  - pointer
+---
+
+## 1.1. Introduction: False Pleasures in Context
+
+-   **Key Question**: How can pleasures be "false"?\
+-   **20th-Century Debate**:
+    -   Critiques of Cartesian "infallible mental states" (Ryle, Williams, Kenny).\
+    -   Plato’s *Philebus* as a precursor to modern critiques of privileged access.\
+-   **Socrates’ Innovation**:
+    -   Pleasures as **propositional attitudes** with intentional structure.\
+    -   Falsity arises from erroneous beliefs (*doxai*) about future states.
+
+## 1.2. Two Interpretations of False Pleasure
+
+1.  **Old School (Mistaken Content)**:
+    -   Falsity = Failed prediction (e.g., expecting pleasure that never occurs).
+2.  **New School (Mistaken Value)**:
+    -   Falsity = Misjudging what is *truly good* (ethical error).\
+
+-   **Shared Premise**:
+    -   Pleasures have **propositional content**.\
+-   **Critique**:
+    -   Overemphasis on correspondence vs. Plato’s ontological truth.
+
+## 2. Chronology: Philebus vs. Theaetetus
+
+-   **Stylistic Differences**:
+    -   *Theaetetus* (closer to *Republic*) vs. *Philebus* (closer to *Laws*).\
+-   **Scholarly Consensus**:
+    -   *Philebus* reflects Plato’s later dissatisfaction with earlier models (e.g., replenishment theory).\
+-   **Challenges to Chronology**:
+    -   Stylometry limitations (possible revisions).\
+    -   Thematic parallels suggest cross-dialogue relevance.
+
+## 3. Protarchus: A Spontaneous Protagorean?
+
+-   **Protagorean Influence**:
+    -   Pleasures as infallible *αἰσθήσεις* (perceptions).\
+    -   But Protarchus admits *beliefs* can be false (*Philebus 36d*).\
+-   **Key Distinction**:
+    -   Flux applies to **physical phenomena**, not ethical concepts.\
+-   **Plato’s Critique**:
+
+> But when it’s a question of each person’s present experience (πάθος), from which there come to be his perceptions (αἱ αἰσθήσεις) ad the judgements (αἱ \<…\> δόξαι) which conform to them—well, it’s harder to refute these latter and show they’re not true (ὡς οὐκ ἀληθεῖς). And perhaps **(ἴσως)** I am talking nonsense when I say that. Because it may be **(εἰ ἔτυχον)** that they’re impossible to refute. Perhaps **(τάχα ἂν)** the people who claim that they’re quite clear, and that they’re instances of knowledge, are saying things which are: and perhaps Theaetetus here wasn’t far off the mark when he laid it down that perception and knowledge are the same thing (179c-d; tr. by McDowell).
+
+## 4. Two Readings of Protagoras’ Theory
+
+-   **Reading A (Conservative)**:
+    -   Plato accepts Protagorean/Heraclitean flux *for the sensible world*.\
+    -   Pleasures lack truth-aptness (not knowledge).\
+-   **Reading B (Revisionist)**:
+    -   Flux is *not total*; minimal stability allows empirical judgments.\
+    -   Pleasures can be "true" in a weaker (subjective) sense.\
+-   **Implications for False Pleasure**:
+    -   Reading A: Pleasures are non-cognitive (no truth/falsity).\
+    -   Reading B: Pleasures can err if misaligned with reality.
+
+> "If all things change, every answer is equally correct." (*Theaetetus 183a*)
+
+## 5. Pleasures and Αἰσθήσεις (Perceptions)
+
+-   **Interconnection**:
+    -   Pleasures *follow* (ἐπόμεναι) perceptions/beliefs (*Philebus 38b*).\
+    -   Not mere bodily motions but soul-body interactions (*Philebus 34a*).\
+-   **Scribe-Painter Metaphor**:
+    -   Αἰσθήσεις = "registered" by the soul’s scribe.\
+    -   Anticipatory pleasures = "painted" mental images (*Philebus 39a–40b*).\
+-   **Plato’s Goal**:
+    -   Show pleasures are *not* infallible.
+
+> "Pleasure is not perception but appearance." (Delcomminette 2003)
+
+## 6. Correspondence Thesis (CT) Critique
+
+-   **CT Claim**:
+    -   Pleasure is "true" if it corresponds to actual states/events.\
+-   **Problems**:
+    1.  Flux undermines stable comparanda (*Philebus 43a*).\
+    2.  Restorations (pleasure’s source) are only felt *through* pleasure.\
+    3.  Indeterminacy of ἄπειρον (*Philebus 27e*).\
+-   **Outcome**:
+    -   CT fails; truth cannot hinge on mirroring reality.
+
+## 7. Harmony Restored
+
+-   **Musical Analogy**:
+    -   Ἀρμονία = attunement of opposites via ratios (*Philebus 25e*).\
+    -   True pleasures "accompany virtue" (*Philebus 63e*).\
+-   **Supervenience**:
+    -   Tuning follows an instrument (*Phd. 93a*: οὐκ ἄρα ἡγεῖσθαί γε προσήκει ἁρμονίαν τούτων ἐξ ὧν ἂν συντεθῇ, ἀλλ' ἕπεσθαι).
+    -   Pleasure covaries with psychic harmony, not physical states.\
+-   **Ethical Harmony**:
+    -   False pleasures = dissonant "jumble" (*Philebus 64e*).
+
+## 8. Preliminary Conclusion
+
+-   **Key Insight**:
+    -   Falsity of pleasure ≠ propositional error but *failure to harmonize*.\
+-   **Rejection of CT**:
+    -   Flux and indeterminacy make correspondence impossible.\
+-   **Path Forward**:
+    -   Ground truth in structural role within the good life.
+
+## 9. Fine-Tuning the Good Life
+
+-   **Structuring Indeterminacy**:
+    -   Soul imposes πέρας (limits) via λόγος (*Philebus 25a*).\
+    -   Analogous to dividing speech into letters (*Philebus 16c*).\
+-   **True Pleasure Criteria**:
+    -   Συνοικεῖν (cohabit) with intelligence (*Philebus 63c*).\
+    -   Συμφωνία (harmony) with virtue.
+
+## 10. Divine Method: Structuring Indeterminacy
+
+-   **Theuth’s Analogy**:
+    -   Divide φωνή (speech) into στοιχεῖα (letters).\
+    -   Indeterminate → structured via "divine method" (*Philebus 16c*).\
+-   **Application to Pleasure**:
+    -   True pleasures = stable "elements" in life’s "syllables."\
+    -   False pleasures = not really "phonemes".
+
+## 11. Sense and Sensibility
+
+-   **Final Synthesis**:
+    -   Sensibility (flux) + Sense (λογισμός) → True Pleasure.\
+    -   Pleasure’s truth = functional role in life’s harmony.
+
+## Feedback
+
+```{=html}
+<!-- Load Font Awesome (make sure this is in your HTML head) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- Icon List -->
+<ul class="icon-list">
+  <li><i class="fab fa-telegram"></i> @locusclassicus </li>
+  <li><i class="fas fa-envelope"></i> alieva.mgl@gmail.com </li>
+  <li><i class="fab fa-github"></i> https://github.com/locusclassicus </li>
+  <li><i class="fas fa-graduation-cap"></i> https://hse-ru.academia.edu/OlgaAlieva</li>
+</ul>
+
+<!-- Optional CSS for styling -->
+<style>
+  .icon-list {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+  }
+
+  .icon-list li {
+    margin: 0.5em 0;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+  }
+
+  .icon-list i {
+    margin-right: 0.5em;
+    color:  #107895;
+    width: 1.2em;
+    text-align: center;
+  }
+</style>
+```
